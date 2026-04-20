@@ -1,0 +1,14 @@
+What happens in the code?
+
+1. What is the name of the custom exception?
+
+2. Which class does it extend?
+
+3. Where in the code is the exception thrown? (method/line)
+
+4. What condition causes the exception to be thrown?
+
+5. Where is the exception handled?
+
+6. What will the output be when the program runs?
+
